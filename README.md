@@ -1,2 +1,6 @@
 # Nova.github.io
-                Yeet
+body {
+background: #FFEBEE
+}
+
+Yeet
